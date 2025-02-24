@@ -1,1 +1,0 @@
-Deep learning is a subset of machine learning that focuses on training neural networks to recognize patterns and make decisions.
